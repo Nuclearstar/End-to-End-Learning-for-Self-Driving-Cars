@@ -21,3 +21,7 @@ You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/t
 1. First, run LoadData.py which will get dataset from folder and store it in a pickle file.
 2. Now you need to have the data, run TrainModel.py which will load data from pickle and augment it. After this, the training process begins.
 3. For testing it on the video you need to run DriveApp.py
+
+### References and Credits:
+1. This implementation is inspired by Akshay Bahadur's project
+2. This implementation also took a lot of inspiration from the Sully Chen's work.
