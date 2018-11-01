@@ -12,7 +12,7 @@ pip install requirements.txt
 
 ### Dataset
 *You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip) for Implementation 1.
--You can download the dataset and extract into the repository folder from [here](https://github.com/SullyChen/driving-datasets) for Implementation 2.
+*You can download the dataset and extract into the repository folder from [here](https://github.com/SullyChen/driving-datasets) for Implementation 2.
 
 ### Python Implementation
 1. Network Used- Convolutional Neural Network(CNN)
