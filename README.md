@@ -7,8 +7,17 @@ The End to End Learning for Self-Driving Cars research paper can be found at (ht
 1. Implementation 1
 2. Implementation 2
 
-### H3 Code Requirements
+### Code Requirements
 pip install requirements.txt
 
-### H3 Dataset
+### Dataset
 You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip)
+
+### Python Implementation
+1. Network Used- Convolutional Neural Network(CNN)
+2. Keras-Tensorflow Architecture
+
+### Procedure in Implementation 1
+1. First, run LoadData.py which will get dataset from folder and store it in a pickle file.
+2. Now you need to have the data, run TrainModel.py which will load data from pickle and augment it. After this, the training process begins.
+3. For testing it on the video you need to run DriveApp.py
