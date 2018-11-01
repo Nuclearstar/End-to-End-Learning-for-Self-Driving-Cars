@@ -6,3 +6,9 @@ The End to End Learning for Self-Driving Cars research paper can be found at (ht
 
 1. Implementation 1
 2. Implementation 2
+
+### H3 Code Requirements
+pip install requirements.txt
+
+### H3 Dataset
+You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip)
