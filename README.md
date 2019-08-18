@@ -7,14 +7,14 @@ The End to End Learning for Self-Driving Cars research paper can be found at (ht
 1. Implementation 1
 2. Implementation 2
 
-### Code Requirements
+## Code Requirements
 pip install requirements.txt
 
-### Dataset
+## Dataset
 You can download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip) for Implementation 1.<br/>
 You can download the dataset and extract into the repository folder from [here](https://github.com/SullyChen/driving-datasets) for Implementation 2.
 
-### Python Implementation
+## Python Implementation
 1. Network Used- Convolutional Neural Network(CNN)
 2. Keras-Tensorflow Architecture
 
@@ -28,6 +28,6 @@ You can download the dataset and extract into the repository folder from [here](
 2. Use python run.py to run the model on a live webcam feed.
 3. Use python run_dataset.py to run the model on the dataset
 
-### References and Credits:
+## References and Credits:
 1. This implementation is inspired by Akshay Bahadur's project
 2. This implementation also took a lot of inspiration from the Sully Chen's work.
